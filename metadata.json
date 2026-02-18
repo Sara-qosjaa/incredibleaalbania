@@ -1,0 +1,8 @@
+{
+  "name": "Incredible Albania",
+  "description": "A premier digital gateway for Albanian tourism, featuring immersive visual experiences, AI-driven itineraries, and deep cultural insights into the land of timeless discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
